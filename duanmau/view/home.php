@@ -4,13 +4,13 @@
                 <div class="banner">
                 <section id="slideshow">
             <div class="slide fade">
-                <img src="view/images/banner1.png" alt="Slide 1">
+                <img src="../view/images/images1.jpg" alt="Slide 1">
             </div>
             <div class="slide fade">
-                <img src="view/images/banner2.png" alt="Slide 2">
+                <img src="../view/images/images1.jpg" alt="Slide 2">
             </div>
             <div class="slide fade">
-                <img src="view/images/banner3.png" alt="Slide 3">
+                <img src="../view/images/images1.jpg" alt="Slide 3">
             </div>
         </section>
 <br>
