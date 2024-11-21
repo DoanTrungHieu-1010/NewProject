@@ -49,5 +49,6 @@
                 <li><a href="index.php?act=addsp">Hàng hóa</a></li>
                 <li><a href="index.php?act=dskh">Khách hàng</a></li>
                 <li><a href="index.php?act=dsbl">Bình luận</a></li>
+                <li><a href="#">Thống kê</a></li>
             </ul>
         </div>
